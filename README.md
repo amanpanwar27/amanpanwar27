@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @amanpanwar27
 - 👀 I’m interested in ... front-end and backend technologies and in DS-algo
-- 🌱 I’m currently learning ...MERN Stack
+- 🌱 I’m currently learning ...Machine Learning
 - 💞️ I’m looking to collaborate on ... web-apps based on MERN stack
 - 📫 How to reach me ... cotaman834@gmail.com
 
