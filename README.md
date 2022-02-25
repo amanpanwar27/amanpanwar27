@@ -4,10 +4,10 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=%2338C2FF&size=50&center=true&vCenter=true&height=60&width=700&lines=Heyyy!+I'm+Aman+Panwar+%3C3;I+speak+binary!!!;Welcome+to+my+profile!" alt="Title"></img>
 </div>
 
-
 ## <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="50px"></img> About Me
 
-- :credit_card: My full name is **Aman Panwar** <img src="https://i.pinimg.com/originals/df/1a/ff/df1aff8395678d11b99b575f0e3b19d5.gif" width="400" align="right"/>
+- :credit_card: My full name is **Aman Panwar** <iframe src="https://giphy.com/embed/q8ld8Sk7WWyY0" width="480" height="273" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/one-piece-luffy-monkey-d-q8ld8Sk7WWyY0">via GIPHY</a></p>
+
 - :school: I'm currently 3rd year student at **College Of Technolgy- GBPUAT**
 - :books: My major is **Information technology**
 - :earth_asia: I'm living now in **Dehradun, Uttrakhand**
