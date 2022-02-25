@@ -60,6 +60,6 @@
 
 ------
 
-Credit: [tienhuynh-tn](https://github.com/amanpanwar27)
+Credit: [Abhay Bhatt](https://github.com/abhaybhatt)
 
 Last Edited on: 22/12/2021
