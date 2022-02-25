@@ -32,7 +32,7 @@
 
 ## <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="80px"> For More Information, Please Check Out or Connect Me Via
 <p align="center">
-  <a href="mailto:cotabhat@gmail.com.com" >
+  <a href="mailto:cotaman834@gmail.com.com" >
     <img align="center" alt="TienHuynh-TN | Gmail" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
   </a> &nbsp;&nbsp;
   
@@ -44,7 +44,7 @@
       <img align="center" alt="TienHuynh-TN | Facebook" width="24px" src="https://upload.wikimedia.org/wikipedia/en/thumb/0/04/Facebook_f_logo_%282021%29.svg/100px-Facebook_f_logo_%282021%29.svg.png" />
   </a> &nbsp;&nbsp;
   
-  <a href="https://www.instagram.com/senpai.abhay/" target="_blank">
+  <a href="https://www.instagram.com/ggezz69/" target="_blank">
     <img align="center" alt="TienHuynh-TN | Instagram" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Instagram.svg" />
   </a> &nbsp;&nbsp;
   
@@ -62,4 +62,4 @@
 
 Credit: [Abhay Bhatt](https://github.com/abhaybhatt)
 
-Last Edited on: 22/12/2021
+Last Edited on: 25/02/2022
