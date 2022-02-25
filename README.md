@@ -6,8 +6,7 @@
 
 ## <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="50px"></img> About Me
 
-- :credit_card: My full name is **Aman Panwar** <iframe src="https://giphy.com/embed/q8ld8Sk7WWyY0" width="480" height="273" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/one-piece-luffy-monkey-d-q8ld8Sk7WWyY0">via GIPHY</a></p>
-
+- :credit_card: My full name is **Aman Panwar** 
 - :school: I'm currently 3rd year student at **College Of Technolgy- GBPUAT**
 - :books: My major is **Information technology**
 - :earth_asia: I'm living now in **Dehradun, Uttrakhand**
